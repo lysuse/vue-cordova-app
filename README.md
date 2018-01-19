@@ -28,3 +28,5 @@ npm run build:prod
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+
+For a detailed cordova info, check out the [document](http://cordova.apache.org/docs/en/latest/)
